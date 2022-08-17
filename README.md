@@ -11,5 +11,5 @@
    * @thiago-farias-b09280163 (Linkedin)
 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm passionated about music and all forms of arts, back when I as a kid I dreammed of being a singer.
+- ⚡ Fun fact: I'm passionated about music and all forms of arts, back when I as a kid I dreammed of becoming a singer.
 
