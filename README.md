@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a fullstack developer on a company called PULSE, working with React and JQuery for the frontend, and some projects using React Native, from the figma prototype to the real application, consuming REST APIs and using git to keep the project updated, also testing the components with Jest and dockerizing the project. For the backend I mostly use Java Spring Boot Framework, but there's a few NodeJS projects. 
+- 🔭 I’m currently working as a fullstack developer on a company called PULSE, working with React and JQuery for the frontend, and some projects using React Native, from the figma prototype to the real application, consuming REST APIs and using git to keep the project updated, also testing the components with Jest and dockerizing the project. For the backend I mostly use Java Spring Framework: doing APIs (Rest and SOAP), cloud tasks and microservices with Kafka, mixing it all in projects with CI/CD in Jenkins to run the pipeline and deploy, trying to keep in mind the TDD (unit test and integration tests) when coding or else the Sonar will say "you shall not pass".
 
 - 🌱 I’m currently learning more about:
    * testing the UI, also about improving my knowleadge about UX. Learning about colors, contrast and accessbility;
-   * microfrontends;
+   * getting more proficienty with microservices architechture, evolving with mesagerias, security beetween services, etc;
+   
 - 📫 How to reach me: 
    * +55 98 982733812 (Whatsapp and Telegram)
    * @thiago.sfarias (Instagram)
