@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a fullstack developer on a company called PULSE, working with React and JQuery for the frontend, and some projects using React Native, from the figma prototype to the real application, consuming REST APIs and using git to keep the project updated, also testing the components with Jest and dockerizing the project. For the backend I mostly use Java Spring Framework: doing APIs (Rest and SOAP), cloud tasks and microservices with Kafka and RabbitMQ, mixing it all in projects with CI/CD in Jenkins to run the pipeline and deploy, trying to keep in mind the TDD (unit test and integration tests) when coding or else the Sonar will say "you shall not pass".
+- 🔭 I’m currently working as a backend developer on a company called MOSKIT
 
 <a href="https://github.com/brunomrosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosfarias&show_icons=true&theme=radical&count_private=true" />
