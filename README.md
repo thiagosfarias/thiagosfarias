@@ -2,11 +2,6 @@
 
 - 🔭 I’m currently working as a backend developer on a company called MOSKIT
 
-<a href="https://github.com/brunomrosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosfarias&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosfarias&layout=compact&theme=radical&count_private=true" />
-</a>
-
 - 🌱 I’m currently learning more about:
    * getting more proficienty with microservices architechture, evolving with AMQP, security beetween services, etc;
    
